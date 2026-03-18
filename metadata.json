@@ -1,0 +1,7 @@
+{
+  "name": "VIBE Beverage",
+  "description": "A high-energy, bold, and rebellious beverage brand website designed for maximum engagement and conversion.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
